@@ -8,6 +8,7 @@
 
 <div class="header">
     <h1>About Me</h1>
+    <p>Hi, I write python scripts for OS and programs.</p>
 </div>
 
 </body>
