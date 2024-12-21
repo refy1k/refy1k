@@ -7,8 +7,7 @@
 <body>
 
 <div class="header">
-    <h1>My GitHub Profile</h1>
-    <p> Ya krutoy specialist !</p>
+    <h1>About Me</h1>
 </div>
 
 </body>
